@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Malo da izvrsim neke izmjene, cisto prakse radi.
